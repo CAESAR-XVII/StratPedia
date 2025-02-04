@@ -11,13 +11,13 @@ function showDetails(year) {
             content = "<h4>1965: La CBS Acquista Fender</h4><p>Nel 1965, Fender viene acquistata dalla CBS. Questo periodo segna il passaggio della produzione di Stratocaster a nuovi standard di produzione e materiali. Cambiano alcune caratteristiche estetiche e tecniche, dal '62 è introdotto il palissandro per la tastiera.</p><img src='images/1965.jpeg' alt='Foto della Fender Stratocaster con tastiera in pallissandro, introdotta nel 1965.' style='width:100%'>";
             break;
         case 1979:
-            content = "<h4>1985: Il Ritorno alla Qualità</h4><p>Nel 1979, Fender per i suoi primi 25 anni di attività lancia la sua prima limited edition, la \"25 Anniversary\", viene inoltre introdotto l'iconico palettone, per rendere più visibile il marchio del brand.</p><img src='images/1979.jpeg' alt='Foto della Fender Stratocaster 25th anniversary' style='width:100%'>";
+            content = "<h4>1979: Il Ritorno alla Qualità</h4><p>Nel 1979, Fender per i suoi primi 25 anni di attività lancia la sua prima limited edition, la \"25 Anniversary\", viene inoltre introdotto l'iconico palettone, per rendere più visibile il marchio del brand.</p><img src='images/1979.jpeg' alt='Foto della Fender Stratocaster 25th anniversary' style='width:100%'>";
             break;
         case 2000:
             content = "<h4>2000: Il Moderno Stile Fender</h4><p>Nel 2000, la Fender Stratocaster diventa sempre più popolare grazie all'innovazione nei materiali e nella costruzione. Si aggiungono nuove varianti di pickup e design, mantenendo comunque l'iconico aspetto originale.</p><img src='images/2000.jpeg' alt='Foto di una Fender Stratocaster del 2000, appartenente alla penultima serie della famiglia.' style='width:100%'>";
             break;
         case 2020:
-            content = "<h4>2012: Fender American Ultra</h4><p>Nel 2020, viene lanciata la Fender Stratocaster American Ultra. Questa versione migliora ulteriormente il comfort e la qualità del suono, con alcune modifiche al design e all'hardware.</p><img src='images/2020.jpeg' alt='Foto della Fender Stratocaster American Ultra, qui in configurazione HSS' style='width:100%'>";
+            content = "<h4>2020: Fender American Ultra</h4><p>Nel 2020, viene lanciata la Fender Stratocaster American Ultra. Questa versione migliora ulteriormente il comfort e la qualità del suono, con alcune modifiche al design e all'hardware.</p><img src='images/2020.jpeg' alt='Foto della Fender Stratocaster American Ultra, qui in configurazione HSS' style='width:100%'>";
             break;
         default:
             content = "<p>Seleziona un anno per vedere i dettagli dei modelli.</p>";
