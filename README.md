@@ -1,0 +1,2 @@
+# StratPedia
+Progetto Catalogazione
